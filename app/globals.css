@@ -4,10 +4,10 @@
 
 body {
   background-color: black;
-  color: antiquewhite;
+  color: black;
 }
 
-@layer base {
+/* @layer base {
   h1 {
     @apply text-3xl font-extrabold my-1;
   }
@@ -75,4 +75,4 @@ body {
   .Select ul li {
     @apply hover:bg-blue-700;
   }
-}
+} */
