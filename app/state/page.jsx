@@ -2,6 +2,7 @@ import BeforeAfter from '../component/state/BeforeAfter';
 import FileInputs from '../component/state/FileInputs';
 import FirstLast from '../component/state/FirstLast';
 import Form from '../component/state/Form';
+import TextState from '../component/state/TextState';
 
 const State = () => {
   return (
@@ -10,6 +11,7 @@ const State = () => {
       <Form />
       <BeforeAfter />
       <FileInputs />
+      <TextState />
     </div>
   );
 };
