@@ -1,7 +1,7 @@
-import React from 'react';
+import ResponsiveExample from '../component/responsiveComponents/ResponsiveExample';
 
 const Responsive = () => {
-  return <div>Responsive</div>;
+  return <ResponsiveExample />;
 };
 
 export default Responsive;
