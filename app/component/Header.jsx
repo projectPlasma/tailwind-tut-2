@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 
 const Header = () => {
   const size = '24px';
-  const [darkMode, setDarkMode] = useState(undefined > undefined);
+  const [darkMode, setDarkMode] = useState(Boolean | (undefined > undefined));
 
   const switchMode = () => {
     setDarkMode(!darkMode);
@@ -15,7 +15,7 @@ const Header = () => {
       localStorage.setItem('darkMode', 'true');
       window.document.documentElement.classList.add('dark');
     } else if (darkMode === false) {
-      localStorage.setItem('darkMode', false);
+      localStorage.setItem('darkMode', 'false');
       window.document.documentElement.classList.remove('dark');
     } else {
       setDarkMode(localStorage.getItem('darkMode') === 'true');

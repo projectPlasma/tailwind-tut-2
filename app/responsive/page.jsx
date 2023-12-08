@@ -11,3 +11,5 @@ const Responsive = () => {
 };
 
 export default Responsive;
+
+// TailwindCSS Docs: PAge: "adding-custom-styles"; Section: "Using CSS and @layer"
