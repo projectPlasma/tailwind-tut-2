@@ -12,4 +12,4 @@ const Responsive = () => {
 
 export default Responsive;
 
-// TailwindCSS Docs: PAge: "Functions & Directives"; Section: "Directives"
+// TailwindCSS Docs: PAge: "Configuration"; Section: "Selector strategy"
