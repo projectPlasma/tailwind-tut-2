@@ -12,4 +12,4 @@ const Responsive = () => {
 
 export default Responsive;
 
-// TailwindCSS Docs: PAge: "Theme Configuration"; Section: "Referencing other values"
+// TailwindCSS Docs: PAge: "Customizing Screens"; Section: "Overriding the defaults"
