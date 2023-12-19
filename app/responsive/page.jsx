@@ -12,4 +12,4 @@ const Responsive = () => {
 
 export default Responsive;
 
-// TailwindCSS Docs: PAge: "Customizing Spacing"; Section: "Customizing Spacing"
+// TailwindCSS Docs: PAge: "Plugins"; Section: "Dynamic Utilities"
