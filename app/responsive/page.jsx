@@ -12,4 +12,4 @@ const Responsive = () => {
 
 export default Responsive;
 
-// TailwindCSS Docs: PAge: "Plugins"; Section: "Dynamic Utilities"
+// TailwindCSS Docs: Section: Layout:=> PAge: "Display" =>  Section: "Display"
